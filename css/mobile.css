@@ -255,14 +255,6 @@ header .logo {
   box-sizing: border-box;
 }
 
-.speaker__list__item__img {
-  background-image: url('../img/Backgrounds/chessbg.jpg');
-  background-size: 40% 40%;
-  background-repeat: no-repeat;
-  background-position-x: 0;
-  background-position-y: 0;
-}
-
 .speaker__list__item__img img {
   width: 100%;
   height: 100%;
@@ -270,6 +262,14 @@ header .logo {
   object-position: bottom;
   padding-left: 12%;
   padding-top: 12%;
+}
+
+.speaker__list__item__img {
+  background-image: url('../img/Backgrounds/chessbg.jpg');
+  background-size: 40% 40%;
+  background-repeat: no-repeat;
+  background-position-x: 0;
+  background-position-y: 0;
 }
 
 .speaker__list__item__content {
@@ -500,8 +500,8 @@ footer .copyright .footer-logo {
   }
 
   .header .social ul {
-    color: #fff;
-    display: flex;  
+    color: #ffff;
+    display: flex;
     list-style: none;
     font-size: small;
     margin-right: 100px;

@@ -1,21 +1,22 @@
-# Portfolio
-This is portfolio website that showcases projects I have worked on and more about me as a person. Enjoy!
+# AfriMusic Festival
+This website is for 5-days music festival. Interested participants can have an overview of what the music fest will be like and see a list of performing acts and artists.
 
-![screenshot](img/screenshot.png)
+![screenshot](img/project-screenshot.png)
 
 ## Built With 
 - Html
 - Css
+- Javascript
 
 ## Online Version Link
 Click on the link below to veiw the online version
-https://olawalecoder.github.io/Portfolio/
+https://olawalecoder.github.io/Conference-Page/
 
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
-Clone the repo with <git@github.com:olawalecoder/Portfolio.git>
+Clone the repo with <git@github.com:olawalecoder/Conference-Page.git>
 
 Run cd <RestoreauntApi> to navigate to the project folder
 Run <npm install> from the command line
@@ -32,15 +33,6 @@ Run <npm start> to start the local server in the browser
 - Twitter: [@olawalecoder](https://twitter.com/olawalecoder)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/bamidele-olawale-072975142)
 
-## Author 2
-- GitHub: [@Anny85-code](https://github.com/Anny85-code)
-- Twitter: [@Annyudo8](https://twitter.com/Annyudo8)
-
-## Author 3
-- GitHub: [@clintonjosephs](https://github.com/clintonjosephs)
-- Twitter: [@clintonmbonu_](https://twitter.com/clintonmbonu_)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/clinton-mbonu)
-
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
@@ -52,5 +44,5 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- All accolades to my coding partners
+Thanks to [Cindy Shin](https://www.behance.net/adagio07) for her design to build this project.
 
