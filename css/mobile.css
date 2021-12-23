@@ -74,7 +74,7 @@ header .logo {
 
 .intro {
   padding: 50px 20px 50px 20px;
-  background-image: url("../img/Backgrounds/mobile_bg.png");
+  background-image: url("./img/Backgrounds/mobile_bg.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -86,7 +86,7 @@ header .logo {
   line-height: 45px;
   margin-top: 10px;
   -webkit-background-clip: text;
-  background-image: url("../img/Backgrounds/vector-red-grunge-background.jpg");
+  background-image: url("./img/Backgrounds/vector-red-grunge-background.jpg");
   color: transparent;
 }
 
@@ -123,7 +123,7 @@ header .logo {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-image: url("../img/Backgrounds/aboutbg.png");
+  background-image: url("./img/Backgrounds/aboutbg.png");
   background-size: auto;
   background-color: #f7f7f7;
 }
@@ -170,7 +170,7 @@ header .logo {
 }
 
 .event-details {
-  background-image: url("../img/Backgrounds/eventbg.png");
+  background-image: url("./img/Backgrounds/eventbg.png");
   background-repeat: repeat;
   background-color: #272a32;
   background-size: 20px;
@@ -265,7 +265,7 @@ header .logo {
 }
 
 .speaker__list__item__img {
-  background-image: url('../img/Backgrounds/chessbg.jpg');
+  background-image: url('./img/Backgrounds/chessbg.jpg');
   background-size: 40% 40%;
   background-repeat: no-repeat;
   background-position-x: 0;
@@ -585,7 +585,7 @@ footer .copyright .footer-logo {
   }
 
   .intro {
-    background-image: url("../img/Backgrounds/desktop_bg.png");
+    background-image: url("./img/Backgrounds/desktop_bg.png");
     padding-left: 100px;
     padding-right: 100px;
   }
