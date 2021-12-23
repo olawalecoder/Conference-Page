@@ -7,26 +7,12 @@
   padding: 0;
 }
 
-.test {
-  position: relative;
-}
-
-.imgtest {
-  position: absolute;
-  width: 200px;
-  right: 0;
-}
-
-
 body {
   font-family: Lato, sans-serif;
   color: #272a31;
 }
 
-header { 
-  position: fixed; 
-  z-index: 999;
-}
+header { position: fixed; }
 
 .socials {
   display: none;
