@@ -160,6 +160,15 @@ header .logo {
   font-weight: bold;
 }
 
+.speaker__list__item__img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: bottom;
+  padding-left: 12%;
+  padding-top: 12%;
+}
+
 .event-details {
   background-image: url("../img/Backgrounds/eventbg.png");
   background-repeat: repeat;
@@ -253,15 +262,6 @@ header .logo {
   grid-column-gap: 8%;
   margin-top: 40px;
   box-sizing: border-box;
-}
-
-.speaker__list__item__img img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: bottom;
-  padding-left: 12%;
-  padding-top: 12%;
 }
 
 .speaker__list__item__img {

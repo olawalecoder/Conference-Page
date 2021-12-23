@@ -19,7 +19,6 @@ function scrolled() {
 
 document.addEventListener('scroll', scrolled, false);
 
-
 const artistInfo = [
   {
     id: 1,
