@@ -265,7 +265,7 @@ header .logo {
 }
 
 .speaker__list__item__img {
-  background-image: url('./img/Backgrounds/chessbg.jpg');
+  background-image: url('../img/Backgrounds/chessbg.jpg');
   background-size: 40% 40%;
   background-repeat: no-repeat;
   background-position-x: 0;
