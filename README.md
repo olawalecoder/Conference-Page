@@ -9,8 +9,8 @@ This website is for 5-days music festival. Interested participants can have an o
 - Javascript
 
 ## Online Version Link
-Click on the link below to veiw the online version
-https://olawalecoder.github.io/Conference-Page/
+Click on the link to veiw the online version
+[https://olawalecoder.github.io/Conference-Page/]
 
 ## Getting Started
 
